@@ -1,5 +1,6 @@
 # How to build your own Linked Building Data Frontend tool using IFC.js and Comunica
 :computer: Build a web-based linked building data frontend in only 20 steps!
+[This is a live demo of what we're going to build!](https://alexdonkers.github.io/Frontends-and-LBD/MyNewFrontendTool/)
 
 **Alex Donkers**
 a.j.a.donkers@tue.nl
