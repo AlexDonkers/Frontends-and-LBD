@@ -9,6 +9,8 @@ a.j.a.donkers@tue.nl
 **Jeroen Werbrouck**
 jeroen.werbrouck@ugent.be
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Frontends-and-LBD Tutorial</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="linkedin.com/in/alexdonkers/" property="cc:attributionName" rel="cc:attributionURL">Alex Donkers</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 ## Introduction
 
 This handout teaches you how to build a simple IFC.js viewer with SPARQL query capabilities. It is created for the Frontends and LBD lecture in [SSoLDAC2023](https://linkedbuildingdata.net/ldac2023/summerschool/). The goal of this document is to increase the knowledge of frontend creation amongst Linked Building Data enthusiasts and to give researchers a toolset to kick-off their frontend development projects. Special thanks to the creators of IFC.js and Comunica for enabling these developments. Please share your results and post your questions in this GitHub repository.
