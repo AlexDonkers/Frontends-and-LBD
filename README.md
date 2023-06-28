@@ -88,7 +88,7 @@ Make sure to also install webpack in the terminal:
 
 `PS C:\Users\...\MyNewProjectFolder> npm i webpack-cli`
 
-`PS C:\Users\...\MyNewProjectFolder> npm I node-polyfill-webpack-plugin`
+`PS C:\Users\...\MyNewProjectFolder> npm i node-polyfill-webpack-plugin`
 
 ### Step 6
 Create a new file called **index.html**.
