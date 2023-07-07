@@ -17,7 +17,7 @@ This handout teaches you how to build a simple IFC.js viewer with SPARQL query c
 
 The **LBDviz** tool was created by following a similar methodology. The methodology and various practical frontend tools are presented in the following work:
 
-:page_facing_up:	_Donkers, A., Yang, D., De Vries, B. & Baken, N. (2023). A Visual Support Tool for Decision-Making over Federated Building Information. CAAD Futures 2023._
+[:page_facing_up:	Donkers, A., Yang, D., de Vries, B., Baken, N. (2023). A Visual Support Tool for Decision-Making over Federated Building Information. In: Turrin, M., Andriotis, C., Rafiee, A. (eds) Computer-Aided Architectural Design. INTERCONNECTIONS: Co-computing Beyond Boundaries. CAAD Futures 2023. Communications in Computer and Information Science, vol 1819. Springer, Cham. https://doi.org/10.1007/978-3-031-37189-9_32](https://link.springer.com/chapter/10.1007/978-3-031-37189-9_32)
 
 More information on interactions with federated AEC models in frontends can be found in a soon to be published paper:
 
@@ -547,3 +547,8 @@ Now run **npm run build**. Use the OpenFlat resources, indicated in the beginnin
 I hope you enjoyed this tutorial. For questions, please use the [Issues](https://github.com/AlexDonkers/Frontends-and-LBD/issues) section or reach out: a.j.a.donkers@tue.nl.
 Follow me on [LinkedIn](https://www.linkedin.com/in/alexdonkers/) for regular research updates.
 
+The code is shared under a CC BY-SA 4.0, meaning that I expect you to share your results - because Open Science is the way to go!
+
+If you used this work, please cite it as:
+
+[Donkers, A., Yang, D., de Vries, B., Baken, N. (2023). A Visual Support Tool for Decision-Making over Federated Building Information. In: Turrin, M., Andriotis, C., Rafiee, A. (eds) Computer-Aided Architectural Design. INTERCONNECTIONS: Co-computing Beyond Boundaries. CAAD Futures 2023. Communications in Computer and Information Science, vol 1819. Springer, Cham. https://doi.org/10.1007/978-3-031-37189-9_32](https://link.springer.com/chapter/10.1007/978-3-031-37189-9_32)
