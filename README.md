@@ -78,6 +78,12 @@ rules: [
 test: /\.css$/i,
 use: ['style-loader', 'css-loader'], //always put style-loader before css-loader
 },
+{
+test: /\.m?js/,
+resolve: {
+fullySpecified: false,
+},
+},
 ],
 },
 };
